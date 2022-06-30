@@ -1,0 +1,15 @@
+language contain variable and function declaration, function defination.
+variable declaration is needed in type checking file before using variable.
+function call should only done after either defining or declaring function if type checking is allowed.
+function call variable declaration function declaration is as provided in problem statement
+argument matching is not implemented.
+operators defined are +, -, / , * ,boolean and &&,boolean or ||, ==,  !=, > , <
+
+you can declare only one variable at once.
+only int and char * are defined.
+constants are string, number, character.
+you can assign this thing: a[i] = character;
+multiple variables cannot have same name
+multiple functions cannot have same name
+Statements are If, While, Assign, Declaration, function call, Return 
+If and while have boolean expressions as condition
