@@ -34,7 +34,7 @@ Mismatch found no valid token found. Skipping current character and searching ne
 ```
 <h3 align="left">parser.txt </h2>
   <ul>
-<li>Displays Syhtax errors.
+<li>Displays Syntax errors.
 <li>Other errors as ERROR! followed by error message.
 <li>Parsing completed if syntatically correct code.
 <li>Errors Detected if syntax errors found.
